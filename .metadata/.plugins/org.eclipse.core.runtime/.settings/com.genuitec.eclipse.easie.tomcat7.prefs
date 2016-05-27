@@ -1,0 +1,11 @@
+#Fri May 27 11:30:32 CST 2016
+TOMCAT_HOME=D\:\\apache-tomcat-8.0.35
+TOMCAT_TEMP=D\:\\apache-tomcat-8.0.35\\temp
+START_IS_DEBUG=false
+LIBRARY_PATH="C\:\\Program Files\\Java\\jdk1.8.0_65\\bin;D\:\\apache-tomcat-8.0.35\\bin"
+TOMCAT_BASE=D\:\\apache-tomcat-8.0.35
+ENDORSED_DIRS="D\:\\apache-tomcat-8.0.35/common/endorsed"
+eclipse.preferences.version=1
+JDK_INSTALLATION_NAME=jdk1.8.0_65
+SERVER_ENABLEMENT=true
+JDK_HOME=C\:\\Program Files\\Java\\jdk1.8.0_65
