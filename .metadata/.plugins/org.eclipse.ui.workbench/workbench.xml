@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="67" version="2.0">
+<workbench progressCount="39" version="2.0">
 <workbenchAdvisor/>
-<window height="1032" maximized="true" width="960" x="791" y="66">
+<window height="1047" maximized="true" width="974" x="-7" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -43,20 +43,35 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegistServlet.java" partName="RegistServlet.java" path="D:/MyEclipseWorkSpace/helloworld/src/com/yuut/servlet/RegistServlet.java" title="RegistServlet.java" tooltip="helloworld/src/com/yuut/servlet/RegistServlet.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/src/com/yuut/servlet/RegistServlet.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="874" selectionTopPixel="114"/>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" partName="login.jsp" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/login.jsp" title="login.jsp" tooltip="helloworld/WebRoot/login.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/login.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="40" selectionOffset="595" selectionTopPixel="34"/>
 </editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="regist.jsp" partName="regist.jsp" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/regist.jsp" title="regist.jsp" tooltip="helloworld/WebRoot/regist.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/regist.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="734" selectionTopPixel="209"/>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="result.jsp" partName="result.jsp" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/result.jsp" title="result.jsp" tooltip="helloworld/WebRoot/result.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/result.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1082" selectionTopPixel="148"/>
 </editor>
 <editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" partName="web.xml" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/WEB-INF/web.xml" title="web.xml" tooltip="helloworld/WebRoot/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoubleColorBallServlet.java" partName="DoubleColorBallServlet.java" path="D:/MyEclipseWorkSpace/helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java" title="DoubleColorBallServlet.java" tooltip="helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="897" selectionTopPixel="186"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="createtable.jsp" partName="createtable.jsp" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/createtable.jsp" title="createtable.jsp" tooltip="helloworld/WebRoot/createtable.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/createtable.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="561" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="table.jsp" partName="table.jsp" path="D:/MyEclipseWorkSpace/helloworld/WebRoot/table.jsp" title="table.jsp" tooltip="helloworld/WebRoot/table.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloworld/WebRoot/table.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="756" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -69,7 +84,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
+<category IMemento.internal.id="Warnings (3 items)"/>
 <category IMemento.internal.id="Errors"/>
 <category IMemento.internal.id="Warnings"/>
 </expanded>
@@ -255,7 +270,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="bottom" ratio="0.61936194" ratioLeft="563" ratioRight="346" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.7634764" ratioLeft="694" ratioRight="215" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
@@ -298,154 +313,162 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/helloworld/WebRoot/WEB-INF/web.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/HelloWorldServlet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/HelloWorld.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/RegistServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/regist.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/regist.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/helloworld/WebRoot/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/RegisterServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/register.jsp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/login.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/LoginServlet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/regist.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/RegistServlet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/RegistServlet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/regist.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/result.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/register.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/result.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/helloworld/WebRoot/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/createtable.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/helloworld/WebRoot/table.jsp"/>
 </editors>
-<item historyLabel="LoginServlet.java" index="4">
-<position/>
-</item>
-<item historyLabel="HelloWorldServlet.java" index="1">
-<position info="not_deleted" x="671" y="101"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="513" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0"/>
-<item historyLabel="login.jsp" index="3">
-<position info="not_deleted" x="594" y="279"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position/>
-</item>
-<item historyLabel="HelloWorld.jsp" index="2">
-<position info="not_deleted" x="655" y="0"/>
-</item>
-<item historyLabel="login.jsp" index="3">
-<position info="not_deleted" x="635" y="0"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="636" y="0"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="479" y="0"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="780" y="0"/>
-</item>
-<item historyLabel="login.jsp" index="3">
-<position info="not_deleted" x="635" y="0"/>
-</item>
-<item historyLabel="login.jsp" index="3">
-<position info="not_deleted" x="860" y="0"/>
-</item>
-<item historyLabel="login.jsp" index="3">
-<position info="not_deleted" x="389" y="0"/>
-</item>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="713" y="0"/>
-</item>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="1018" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="1127" y="0"/>
-</item>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="606" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="1127" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="490" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="541" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="701" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="701" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="653" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="735" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="946" y="0"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="697" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="701" y="0"/>
-</item>
-<item historyLabel="LoginServlet.java" index="4">
-<position info="not_deleted" x="697" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="701" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="943" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="874" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="866" y="0"/>
-</item>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="442" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0"/>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="617" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0"/>
-<item historyLabel="RegistServlet.java" index="6">
-<position info="not_deleted" x="279" y="13"/>
-</item>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="673" y="0"/>
-</item>
-<item historyLabel="web.xml" index="0"/>
-<item historyLabel="regist.jsp" index="5">
-<position info="not_deleted" x="673" y="0"/>
-</item>
-<item historyLabel="HelloWorldServlet.java" index="1">
-<position info="not_deleted" x="671" y="101"/>
-</item>
-<item historyLabel="RegistServlet.java" index="7">
+<item historyLabel="RegistServlet.java" index="1">
 <position info="not_deleted" x="594" y="0"/>
 </item>
-<item historyLabel="regist.jsp" index="8">
+<item historyLabel="regist.jsp" index="2">
 <position info="not_deleted" x="734" y="0"/>
 </item>
 <item historyLabel="web.xml" index="0"/>
-<item active="true" historyLabel="RegistServlet.java" index="7">
-<position info="not_deleted" x="594" y="0"/>
+<item historyLabel="RegistServlet.java" index="1">
+<position info="not_deleted" x="755" y="0"/>
+</item>
+<item historyLabel="regist.jsp" index="3">
+<position info="not_deleted" x="720" y="0"/>
+</item>
+<item historyLabel="web.xml" index="4"/>
+<item historyLabel="RegisterServlet.java" index="5">
+<position info="not_deleted" x="308" y="0"/>
+</item>
+<item historyLabel="regist.jsp" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="register.jsp" index="6">
+<position info="not_deleted" x="444" y="0"/>
+</item>
+<item historyLabel="web.xml" index="4"/>
+<item historyLabel="register.jsp" index="6">
+<position info="not_deleted" x="838" y="0"/>
+</item>
+<item historyLabel="RegisterServlet.java" index="5">
+<position info="not_deleted" x="890" y="0"/>
+</item>
+<item historyLabel="login.jsp" index="7">
+<position info="not_deleted" x="673" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="8">
+<position info="not_deleted" x="399" y="0"/>
+</item>
+<item historyLabel="login.jsp" index="7">
+<position info="not_deleted" x="579" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="8">
+<position info="not_deleted" x="399" y="0"/>
+</item>
+<item historyLabel="login.jsp" index="7">
+<position info="not_deleted" x="688" y="0"/>
+</item>
+<item historyLabel="register.jsp" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="815" y="0"/>
+</item>
+<item historyLabel="login.jsp" index="7">
+<position info="not_deleted" x="595" y="40"/>
+</item>
+<item historyLabel="web.xml" index="11"/>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="676" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="653" y="3"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="700" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="897" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="984" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="1072" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="1032" y="1"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="1070" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="1231" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="1111" y="0"/>
+</item>
+<item historyLabel="DoubleColorBallServlet.java" index="12">
+<position info="not_deleted" x="897" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="815" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="992" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="1019" y="0"/>
+</item>
+<item historyLabel="createtable.jsp" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="table.jsp" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="createtable.jsp" index="13">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="table.jsp" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="createtable.jsp" index="13">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="table.jsp" index="14">
+<position info="not_deleted" x="151" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="1019" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="696" y="0"/>
+</item>
+<item historyLabel="result.jsp" index="10">
+<position info="not_deleted" x="1082" y="0"/>
+</item>
+<item historyLabel="table.jsp" index="14">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="createtable.jsp" index="13">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="table.jsp" index="14">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item active="true" historyLabel="table.jsp" index="14">
+<position/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -464,20 +487,38 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="table.jsp" tooltip="helloworld/WebRoot/table.jsp">
+<persistable path="/helloworld/WebRoot/table.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="createtable.jsp" tooltip="helloworld/WebRoot/createtable.jsp">
+<persistable path="/helloworld/WebRoot/createtable.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoubleColorBallServlet.java" tooltip="helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java">
+<persistable path="/helloworld/src/com/yuut/servlet/DoubleColorBallServlet.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="helloworld/WebRoot/WEB-INF/web.xml">
 <persistable path="/helloworld/WebRoot/WEB-INF/web.xml"/>
 </file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="result.jsp" tooltip="helloworld/WebRoot/result.jsp">
+<persistable path="/helloworld/WebRoot/result.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="register.jsp" tooltip="helloworld/WebRoot/register.jsp">
+<persistable path="/helloworld/WebRoot/register.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" tooltip="helloworld/WebRoot/login.jsp">
+<persistable path="/helloworld/WebRoot/login.jsp"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="regist.jsp" tooltip="helloworld/WebRoot/regist.jsp">
 <persistable path="/helloworld/WebRoot/regist.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegisterServlet.java" tooltip="helloworld/src/com/yuut/servlet/RegisterServlet.java">
+<persistable path="/helloworld/src/com/yuut/servlet/RegisterServlet.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegistServlet.java" tooltip="helloworld/src/com/yuut/servlet/RegistServlet.java">
 <persistable path="/helloworld/src/com/yuut/servlet/RegistServlet.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginServlet.java" tooltip="helloworld/src/com/yuut/servlet/LoginServlet.java">
 <persistable path="/helloworld/src/com/yuut/servlet/LoginServlet.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" tooltip="helloworld/WebRoot/login.jsp">
-<persistable path="/helloworld/WebRoot/login.jsp"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" tooltip="helloworld/WebRoot/WEB-INF/login.jsp">
 <persistable path="/helloworld/WebRoot/WEB-INF/login.jsp"/>
@@ -490,15 +531,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="index.jsp" tooltip="helloworld/WebRoot/index.jsp">
 <persistable path="/helloworld/WebRoot/index.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="testhello/WebRoot/WEB-INF/web.xml">
-<persistable path="/testhello/WebRoot/WEB-INF/web.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web1.xml" tooltip="helloworld/WebRoot/WEB-INF/lib/web1.xml">
-<persistable path="/helloworld/WebRoot/WEB-INF/lib/web1.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HellowWorldServlet.java" tooltip="helloworld/src/com/yuut/servlet/HellowWorldServlet.java">
-<persistable path="/helloworld/src/com/yuut/servlet/HellowWorldServlet.java"/>
 </file>
 </mruList>
 </workbench>

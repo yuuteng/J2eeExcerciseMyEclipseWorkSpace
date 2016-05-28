@@ -1,6 +1,6 @@
-#Tue May 24 15:25:02 CST 2016
+#Sat May 28 20:25:10 CST 2016
 tomcat7Server.helloworld.altContextRoot=/helloworld
-tomcat7Server.helloworld.deploymentPath=H\:\\apache-tomcat-8.0.35\\webapps\\helloworld
+tomcat7Server.helloworld.deploymentPath=D\:\\apache-tomcat-8.0.35\\webapps\\helloworld
 tomcat7Server.helloworld.isExploded=true
 tomcat7Server.helloworld.isUptoDate=true
 tomcat7Server.helloworld.contextRoot=/helloworld

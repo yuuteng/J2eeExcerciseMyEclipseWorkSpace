@@ -3,3 +3,5 @@
 1464333460585	Delete element
 1464334995471	Delete element
 1464337484338	Extract method 'showInformation'
+1464406090662	Rename type 'RegistServlet'
+1464406114790	Rename resource 'regist.jsp'

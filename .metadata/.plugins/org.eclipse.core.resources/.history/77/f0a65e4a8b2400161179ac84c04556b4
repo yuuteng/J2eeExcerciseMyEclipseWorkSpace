@@ -1,0 +1,31 @@
+package com.yuut.servlet;
+/**
+ * 双色球开奖
+ * 总共1-32 个不重复带数字的 红球;1-16个蓝球
+ * 开奖:6个红球+1蓝球
+ * */
+import java.io.IOException;
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+
+
+public class DoubleColorBallServlet extends HttpServlet {
+	public void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		Set<Integer> redBall = new HashSet<Integer>();
+		Random randomValue = new Random();
+		while (redBall.size()<6) {
+			type type = (type) en.nextElement();
+			
+		}
+	}
+
+}

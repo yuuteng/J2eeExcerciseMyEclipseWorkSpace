@@ -14,9 +14,14 @@
  		<servlet-class>com.yuut.servlet.LoginServlet</servlet-class>
  	</servlet>
  	<servlet>
- 		<servlet-name>RegistServlet</servlet-name>
- 		<servlet-class>com.yuut.servlet.RegistServlet</servlet-class>
+ 		<servlet-name>RegisterServlet</servlet-name>
+ 		<servlet-class>com.yuut.servlet.RegisterServlet</servlet-class>
  	</servlet>
+  <servlet>
+    <servlet-name>DoubleColorBallServlet</servlet-name>
+    <servlet-class>com.yuut.servlet.DoubleColorBallServlet</servlet-class>
+  </servlet>
+
  	
  	
  	<servlet-mapping>
@@ -28,7 +33,11 @@
   		<url-pattern>/LoginServlet</url-pattern>
   	</servlet-mapping>
   	<servlet-mapping>
-  		<servlet-name>RegistServlet</servlet-name>
-  		<url-pattern>/RegistServlet</url-pattern>
+  		<servlet-name>RegisterServlet</servlet-name>
+  		<url-pattern>/RegisterServlet</url-pattern>
   	</servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DoubleColorBallServlet</servlet-name>
+    <url-pattern>/DoubleColorBallServlet</url-pattern>
+  </servlet-mapping>
 </web-app>

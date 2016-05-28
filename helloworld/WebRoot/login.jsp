@@ -17,7 +17,7 @@
   </head>
   
   <body>
-    <form action="LoginServlet" method="post">
+    <form action="result.jsp" method="post">
     	username: <input type="text" name="username"><br>
     	password: <input type="password" name="password"><br>
     	
