@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
-	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<section name="NewWebXmlLinkCreationWizardPage">
 		<item value="" key="display_name"/>
-		<item value="/helloworld/WebRoot/WEB-INF" key="filePath"/>
 		<item value="" key="description"/>
+		<item value="/helloworld/WebRoot/WEB-INF" key="filePath"/>
 		<item value="true" key="do_mapping"/>
 	</section>
 	<section name="OptionalMessageDialog.hide.">
@@ -40,8 +40,8 @@
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="192" key="DIALOG_Y_ORIGIN"/>
-			<item value="500" key="DIALOG_HEIGHT"/>
 			<item value="669" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
 			<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
@@ -58,20 +58,20 @@
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="4" key="DIALOG_Y_ORIGIN"/>
-			<item value="-14" key="DIALOG_X_ORIGIN"/>
 			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="-14" key="DIALOG_X_ORIGIN"/>
 			<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
 	<section name="NewServletCreationWizardPage">
 		<item value="1] Default template for Servlet" key="template"/>
-		<item value="false" key="create_constructor"/>
 		<item value="false" key="create_dodelete"/>
-		<item value="true" key="create_doget"/>
+		<item value="false" key="create_constructor"/>
 		<item value="false" key="create_servletinfo"/>
+		<item value="true" key="create_doget"/>
 		<item value="false" key="create_doinitdestroy"/>
-		<item value="false" key="create_unimplemented"/>
 		<item value="true" key="create_main"/>
+		<item value="false" key="create_unimplemented"/>
 		<item value="false" key="create_dopost"/>
 		<item value="false" key="create_doput"/>
 	</section>
@@ -85,8 +85,8 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
-		<item value="*" key="patterns"/>
 		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>
 		<item value="false" key="updateTextualMatches"/>
 		<item value="true" key="updateSimilarElements"/>

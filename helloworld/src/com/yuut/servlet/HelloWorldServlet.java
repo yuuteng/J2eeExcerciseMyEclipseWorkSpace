@@ -19,10 +19,14 @@ public class HelloWorldServlet extends HttpServlet{
 		//Êä³öÁ÷
 		PrintWriter out = resp.getWriter();
 		
+		String teststr = "123456789";
+		System.out.println(teststr.length());
+		
 		out.println("<html><head><title>Hello yuut</title></head>");
-		out.println("<body><h1>Hello yuut , time now is :" + new Date().toLocaleString() + "</body></html>");
+		out.println("<body><h1>Hello yuut , time now is :" + teststr.indexOf("5") + "</body></html>");
 		
 		//»º´æÇå¿Õ
 		out.flush();
+		
 	}
 }
